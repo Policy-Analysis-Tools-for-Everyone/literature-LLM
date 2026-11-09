@@ -1,11 +1,13 @@
 # Scaffolding, critique and delegation
 
-## Tension to investigate
-Generative AI can offer prompts, feedback, alternative framings and examples; it can also take over cognitive work. These modes are not simple opposites, and a single interaction may mix them.
+AI may prompt alternatives and reflection or take over cognitive tasks. A given interaction may do both. Following a defensible AI suggestion is not necessarily irrational, and disagreeing is not proof of learning.
 
-**Do not assume** challenge always creates learning or delegation always prevents it. Study *which moves are undertaken by the person, AI, peers and teacher*, why, and with what consequences for explanation and judgement.
+[Cong-Lem & Nguyen](../sources/cong-lem-nguyen-critical-thinking.md) map scaffolding and offloading pathways in a 29-study scoping review without formal risk-of-bias appraisal (PDF pp. 12, 16). These remain interpretive categories, not confirmed causal mechanisms for postgraduate policy analysis.
 
-## Evidence gaps
-The current wiki has not yet ingested the relevant postgraduate original studies from Scopus D. Full-text appraisals and explicit contradictory findings are needed before making positive/negative causal claims.
+[Herdağdelen, Joren & Tamkin](../sources/herdagdelen-experts-judgement.md) found agent lean affected experts' intermediate choices in a synthetic policy-analysis task. This helps study **decision provenance** but is not direct evidence that an individual lost agency or learned less.
 
-Connected: [reflective practice](../concepts/reflective-practice.md); [strategy-as-practice](../concepts/strategy-as-practice.md).
+[Casey](../sources/casey-public-policy-teaching.md) documents reflection, policy-brief analysis and transcript analysis in undergraduate policy teaching; methodological analogy only.
+
+**Research propositions:** examine explicit evaluation, revision, reasons, peer exchange, and choice points. Eliciting initial positions may itself alter choices (Herdağdelen PDF p. 7).
+
+See [reflective practice](../concepts/reflective-practice.md) and [analytical judgement ownership](analytical-decisions-and-ownership.md).
