@@ -31,3 +31,14 @@ Scopus A–D: **1,096 exported hits → 78 duplicate hits removed → 1,018 uniq
 ## Tool-agnostic by design
 
 ChatGPT, Claude Code or another assistant may work on this repository. `AGENTS.md` is the governing protocol; `CLAUDE.md` links to it. The repository and your decisions are the source of truth, not a chat history. For now, no database, embeddings, server or API key is needed.
+
+## Six-paper pilot and research handover
+
+- [Research handover v0.6](protocol/handover-v0.6.md)
+- [Researcher decisions v0.4](protocol/researcher-decisions-v0.4.md)
+- [Scopus A–C audit](protocol/searches-a-c-original-audit.md)
+- [Search D audit](protocol/search-d-integration-v0.6.md)
+- [Six supplied PDFs: roles and SHA-256 manifest](protocol/source-library-index.md)
+- [Evidence-based six-paper synthesis](wiki/synthesis/six-paper-synthesis.md)
+
+The raw Scopus data, licensed PDFs, and earlier cycle-seven synthesis remain in controlled storage rather than being copied into this repository.
