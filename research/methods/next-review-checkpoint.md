@@ -20,3 +20,7 @@ This checkpoint follows the first eighteen-paper synthesis and the method/citati
 - Establish controlled archive pointer to raw Scopus and ethics originals.
 
 **Researcher decisions:** `[not yet recorded]`. This file is a proposed review meeting agenda.
+
+## Screening QA completed in part — 9 November 2026
+
+File-integrity and deduplication checks are reproduced in [technical QA report](screening-technical-qa-2026-11-09.md). There is a [52-record targeted/random human review queue](screening-qa-researcher-queue-2026-11-09.csv). **Do not mark screening human-validated or fully closed** until decisions and rationales are entered by the researcher. This does not block the next literature-informed **study design drafting** phase.
