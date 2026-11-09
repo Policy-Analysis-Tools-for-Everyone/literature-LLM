@@ -15,7 +15,7 @@ This checkpoint follows the first eighteen-paper synthesis and the method/citati
 
 - Run the link and citation checks in an executable environment; the presence of instructions is not an automated compliance guarantee.
 - Check metadata of all 18 papers with original publisher/Crossref information.
-- Apply citation-claim template to ten high-impact statements and record human disagreements.
+- **Ten high-impact statements have now been source-checked by AI**, recorded in [the ten-claim audit](ten-claim-evidence-audit-2026-11-09.md). Next: researcher spot-check source locators, adjudicate contested wording and record disagreements; this is not yet independent validation.
 - Reconcile old `wiki/synthesis/research-gaps.md` claims that refer only to the initial six source PDFs.
 - Establish controlled archive pointer to raw Scopus and ethics originals.
 
