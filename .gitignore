@@ -1,0 +1,17 @@
+# Keep restricted sources out of version control
+raw/scopus/
+raw/screening/
+raw/papers/
+raw/participant-data/
+*.pdf
+*.xlsx
+*.xls
+*.csv
+*.ris
+*.bib
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+# Only vetted Markdown source indexes belong under raw/
