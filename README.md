@@ -19,6 +19,7 @@ This repository is **private**, but that does not authorise uploading UCL partic
 - [Agent instructions](AGENTS.md), shared across model providers
 - [Research scope and eligibility](protocol/eligibility.md)
 - [Research provenance and search counts](protocol/search-provenance.md)
+- **[Current eighteen-paper synthesis](wiki/synthesis/new-postgraduate-evidence.md)**
 - [Research wiki](wiki/index.md)
 - [Change log](wiki/log.md)
 - [Initial sourced example: Wiles et al.](wiki/sources/wiles-2026.md)
