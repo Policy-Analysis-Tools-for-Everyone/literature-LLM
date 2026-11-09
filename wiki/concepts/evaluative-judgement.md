@@ -1,16 +1,9 @@
 # Evaluative judgement
 
-**Working definition:** the capability to make informed assessments about the quality of work, including one's own and that of others. Conceptual lead: Tai et al. (2018), DOI https://doi.org/10.1007/s10734-017-0220-3 — source note and precise interpretation still to be completed.
+**Conceptual starting point:** the capability to make informed judgements about quality, including one's own and others' work. Tai et al. (2018), DOI https://doi.org/10.1007/s10734-017-0220-3. **Original primary theory still requires full-text reading.**
 
-For PolicyMemo.ai, evaluative judgement may appear in *framing, weighing competing evidence, comparing alternatives, revising a claim, or justifying a policy choice*. This is a **research proposition**, not a validated measurement model.
+For PolicyMemo.ai, examples to investigate include problem framing, evaluating evidence and alternatives, responding to challenge, and justifying decisions. These are **candidate observational categories, not a validated measurement framework.**
 
-## Distinctions to preserve
-- A high-quality AI-assisted output is not itself proof the student exercised evaluative judgement.
-- Merely detecting an AI error is not the only manifestation of judgement.
-- Observation of reasoning-in-action, justification and feedback uptake may complement tests of independent performance.
+[Herdağdelen et al.](../sources/herdagdelen-experts-judgement.md) directly investigate AI influence on *decisions*, not development of Tai et al.'s construct. [Wiles](../sources/wiles-2026.md) tests assisted output and limited immediate unaided knowledge. [Casey](../sources/casey-public-policy-teaching.md) discusses evaluation in a Bachelor of Public Policy exercise (undergraduate-only). [Cong-Lem & Nguyen](../sources/cong-lem-nguyen-critical-thinking.md) identify diverse operationalisations of critical thinking; model-error checking is only part of the domain.
 
-## Evidence currently linked
-- [Wiles et al. (2026)](../sources/wiles-2026.md) contributes a **boundary case** between assisted output and independent assessed knowledge; it does not directly measure the full construct.
-
-## Open questions
-How can a study observe developing judgement within individual, group and AI-supported practice without prematurely reducing the phenomenon to a score?
+**Open question:** what would provide evidence of developing judgement during individual, group and AI-supported policy analysis rather than a high-scoring final memo?
