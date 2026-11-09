@@ -9,10 +9,11 @@ Start here:
 3. [Proposed amendment — NOT approved](study/amendment-proposal.md)
 4. [Search and screening provenance](../protocol/search-provenance.md) and [researcher adjudications](../protocol/researcher-decisions-v0.4.md)
 5. [Eighteen-paper working synthesis](../wiki/synthesis/new-postgraduate-evidence.md) and [source index](../wiki/index.md)
-6. [Research methods and integrity gates](methods/quality-gates.md)
-7. [Reference standards](../references/harvard-standard.md)
-8. [Research design translation register](design/translation-register.md)
-9. [Known artefacts and storage status](archive-inventory.md)
+6. **[Ten-claim full-text evidence audit](methods/ten-claim-evidence-audit-2026-11-09.md)** — claim-by-claim source checking, qualifications and methodological transfer to PolicyMemo.ai
+7. [Research methods and integrity gates](methods/quality-gates.md)
+8. [Reference standards](../references/harvard-standard.md)
+9. [Research design translation register](design/translation-register.md)
+10. [Known artefacts and storage status](archive-inventory.md)
 
 ## Record-of-record principle
 
