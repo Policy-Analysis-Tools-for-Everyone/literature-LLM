@@ -21,3 +21,7 @@
 - **Other boundary results:** Zou et al. found no significant overall metacognitive-experience difference; Farrokhnia et al. found higher-quality AI feedback did not significantly improve revisions; Elkhodr & Gide measured scaffolded group artefacts, not durable individual capacity.
 - Tai and Bearman are conceptual; the Fernandes adult sample is contextual; Gmeiner has a mixed design participant population requiring explicit verification before classifying as directly practising-professional evidence.
 - Screening QA, original-source page/detail verification, and human approval of the synthesis are **not complete**. No UCL amendment activity is presumed approved.
+
+## 2026-11-09 — Search E drafted (policy and public-sector coverage), not run
+- Added [Search E draft](../protocol/search-e-policy-draft-v0.7.md) at the researcher's request: A–D contain no policy or public-sector search terms, and only one policy-teaching title (Casey) appears among 1,018 records.
+- Query is a proposal with iterations and known-item checks; no Scopus counts, exports or screening exist. Identification totals in [search provenance](../protocol/search-provenance.md) are unchanged.
