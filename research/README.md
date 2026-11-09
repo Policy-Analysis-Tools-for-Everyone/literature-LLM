@@ -22,3 +22,9 @@ For each study decision, record **what** changed, **who** decided, **when**, **w
 **Repository coverage:** interpretive notes, protocols, approved study summary, proposed amendments, search development logs, source metadata and future design drafts. Restricted material is referenced by an inventory, with access governed by the original holder. A private GitHub repository is **not** itself approved UCL research-data storage.
 
 **Current boundaries:** no claims of completed human dual screening, final systematic-review selection, completed consented student data collection, or approval for proposed interviews/observations/questionnaires.
+
+## Current status — evidence sufficiency and screening QA, 9 November 2026
+
+The current eighteen-paper full-text working library is **adequate to start shaping the study design**, not necessarily a complete publication-ready review. New reading should be targeted to conceptual/methodological questions rather than an arbitrary paper count. A [deterministic screening audit](methods/screening-technical-qa-2026-11-09.md) has reproduced A–D search counts, but the [52-record human adjudication queue](methods/screening-qa-researcher-queue-2026-11-09.csv) remains open. Human validation of claims and exclusions is not implied by the reproducibility check.
+
+**Sequence:** literature-informed design → researcher methodological challenge and amendment drafting → formal ethics amendment → only then carry out newly authorised data collection. See [amendment proposal](study/amendment-proposal.md).
