@@ -1,4 +1,4 @@
-# Second synthesis cycle — twelve additional papers, 9 November 2026
+# Current critical narrative synthesis — eighteen papers (cycle 2, 9 November 2026)
 
 **Status:** first-pass **full-text, source-grounded** cross-paper synthesis. This cycle adds **twelve distinct sources** to [the original six-paper synthesis](six-paper-synthesis.md), giving eighteen distinct papers with wiki source notes. It does not replace the complete Scopus screening register, does not constitute systematic-review inclusion decisions, and is not a validation of durable learning. Exact claims and qualitative inferences remain open to researcher review.
 
