@@ -37,8 +37,8 @@
 - [Assisted performance vs learning](debates/assisted-performance-vs-learning.md)
 - [Scaffolding vs delegation](debates/scaffolding-vs-delegation.md)
 - [Analytical decisions and ownership](debates/analytical-decisions-and-ownership.md)
-- [Six-paper synthesis](synthesis/six-paper-synthesis.md)
-- [Expanded 18-paper synthesis and postgraduate evidence](synthesis/new-postgraduate-evidence.md)
+- **[CURRENT — Critical narrative synthesis (18 papers)](synthesis/new-postgraduate-evidence.md)**
+- [Archive — first synthesis cycle (6 papers)](synthesis/six-paper-synthesis.md)
 - [Research gaps (provisional)](synthesis/research-gaps.md)
 - [Cumulative log](log.md)
 
