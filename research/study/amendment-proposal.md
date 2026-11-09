@@ -21,3 +21,12 @@ None of the above may be represented as approved or used to collect study data u
 
 ## Literature-informed design hypotheses (not amendment claims)
 Potential analytical unit: an **episode of consequential policy reasoning** — who introduces a frame/option, what criteria and evidence are invoked, what is contested/revised, and what students can subsequently justify. These are **sensitising questions**, not a settled measurement instrument or a tested effect.
+
+## Agreed order of work — 9 November 2026
+
+1. Complete the existing evidence audit, targeted screening QA and source/claim checks as far as possible without inventing human adjudication.
+2. Critically compare conceptual frameworks and develop a **literature-informed research design**, including seminar activities, potential observations, interview guides, measures/episode codes, rival explanations, feasibility and data safeguards.
+3. Record researcher decisions on the proposed design and make any necessary amendments to the actual research plan and participant documents.
+4. **Only then submit the proposed changes for UCL ethics review**. Do not implement unapproved data collection or reinterpret the existing permission as covering interviews, individual observations or new questionnaires.
+
+The proposed design can be drafted, simulated using synthetic examples and critically reviewed before ethics approval. Actual research activity must remain within the original approved scope until a relevant amendment is authorised.
