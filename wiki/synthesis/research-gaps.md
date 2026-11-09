@@ -1,12 +1,23 @@
-# Research gaps — provisional
+# Research gaps — provisional, after eighteen full texts
 
-These are **open methodological questions**, not conclusions of a completed synthesis of all Scopus papers.
+**Status:** this page now refers to **eighteen distinct full-text source notes**, including postgraduate studies and two foundational conceptual articles. They have initial AI-assisted appraisal, **not** researcher-approved final quality assessment. Consult [current cross-paper synthesis](new-postgraduate-evidence.md) for exact contexts and qualifications.
 
-- Direct postgraduate/professional evidence remains thin among the **six supplied PDFs**: two professional experimental papers, three mixed-level secondary reviews and one undergraduate methodological comparator. This is not a count of the wider corpus.
-- Outcome validity: distinguish assisted grades, observed reasoning, self-reported reflection, and delayed independent transfer.
-- The [Deng meta-analysis](../sources/deng-chatgpt-learning-review.md) highlights uncertain AI availability during assessments (PDF p. 18); [Chen & Cheung](../sources/chen-cheung-learning-meta-analysis.md) find a non-significant metacognition subgroup effect (PDF pp. 1, 15).
-- [Herdağdelen et al.](../sources/herdagdelen-experts-judgement.md) suggest studying **sequences of consequential modelling choices**, not just final advice. The experiment uses synthetic tasks and assigned agent preferences, so naturalistic generalisability remains open.
-- Individual and group practice, feedback uptake, teaching arrangements and tool affordances may matter, but strategy-as-practice remains an exploratory lens pending original theory reading.
-- A–D screening QA, potential false exclusions, uncertain populations and three missing abstracts still require verification.
+## Plausible knowledge and methods gaps
 
-Next full-text priority: retrieve one **verified postgraduate original study** from the Scopus D list and examine whether it supports or challenges the [six-paper synthesis](six-paper-synthesis.md).
+- **Outcome distinction:** assisted task quality, independently demonstrated capability, enacted evaluation/revision and self-reported metacognition are different constructs. See [Wiles](../sources/wiles-2026.md), [Fernandes](../sources/fernandes-2026-metacognition.md), and [Zou](../sources/zou-2026-doctoral-writing.md).
+- **Feedback as intervention vs feedback uptake:** more detailed or higher-rated AI feedback does not establish more student learning. [Farrokhnia](../sources/farrokhnia-2026-feedback-revisions.md) finds no significant increase in revision gains from higher-quality AI feedback; [Elkhodr & Gide](../sources/elkhodr-gide-2026-ai-critic.md) observe justifications *within a deliberately prompted* postgraduate activity.
+- **Judgement and provenance:** AI can influence upstream consequential methodological choices. [Herdağdelen et al.](../sources/herdagdelen-experts-judgement.md) support this in a synthetic professional task; their **registered adjusted direct final policy shift was non-significant**. Do not generalise to ordinary policy classroom use.
+- **Situated/group practice:** [Dai et al.](../sources/dai-et-al-2026-cognitive-outsourcing.md) analyse sequences at *group* level. What a participant actually understands cannot be inferred mechanically from group trajectories.
+- **Observation validity:** self-reported strategy use and retrospective rationales differ from recorded decisions and artefact revisions. [Yao](../sources/yao-2025-postgraduate-writing.md), [Dai](../sources/dai-2026-uk-reading.md), and [Gao & Zhang](../sources/gao-zhang-2026-doctoral-reconstruction.md) help sensitise but not causally identify change.
+- **Conceptual framework:** [Tai](../sources/tai-2018-evaluative-judgement.md) and [Bearman](../sources/bearman-2024-evaluative-judgement-ai.md) support evaluating outputs *and processes*, but the relevance of reflective practice and strategy-as-practice still needs an original theoretical comparison.
+
+## Critical unresolved safeguards
+
+- A–D screening is **not human-double-screened**; earlier random exclusion audit found ten potential false exclusions among thirty sampled. Population checks and unavailable abstracts remain.
+- Review overlap in Deng and Chen & Cheung is not resolved at original-study level; their pooled outcomes cannot simply be added.
+- Source note authors and bibliographic fields must be audited before final Harvard export; see [DOI-first catalogue](../../references/source-index.md).
+- The approved UCL plan does **not** authorise the proposed interviews, structured student observation or questionnaire additions. See [research baseline](../../research/study/approved-baseline.md) and [amendment proposal](../../research/study/amendment-proposal.md).
+
+## Next test
+
+Use [quality gates](../../research/methods/quality-gates.md) to trace approximately ten **material** synthesis claims to exact original evidence, explicitly solicit contradictory studies, then use [design translation](../../research/design/translation-register.md) to decide whether an episode-level observation framework is valid in approved seminar materials. Do not merely enlarge the reading count.
