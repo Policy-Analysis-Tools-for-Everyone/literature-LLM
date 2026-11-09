@@ -14,6 +14,17 @@ A **version-controlled research wiki** for a focused critical narrative literatu
 
 This repository is **private**, but that does not authorise uploading UCL participant data, licensed PDFs, or research records outside approved storage arrangements. See [data handling](protocol/data-handling.md).
 
+## Research archive and methods — start here
+
+- **[Research record and archive inventory](research/README.md)** — approved study baseline, amendment status, screening history, decisions, prior literature cycles and access-controlled source inventory
+- **[Research history: record of record](research/record-of-record.md)** — methods and identification trail across A–D
+- **[Harvard citation standard](references/harvard-standard.md)** and [DOI-first source index](references/source-index.md)
+- **[Research-quality checkpoints](research/methods/quality-gates.md)** and [screening audit method](research/methods/screening-audit-plan.md)
+- **[Evidence-to-design translation](research/design/translation-register.md)** — developing implications for the UCL study
+- **[Academic Research Skills assessment](research/integrations/academic-research-skills.md)** — reusable ideas, licensing and intentionally excluded features
+
+The repository is the **navigable research record**, not unrestricted storage: licensed full texts, bulk Scopus exports, approved UCL documents and participant data remain in controlled archives, with their presence/status explicitly indexed. Do not confuse this with all underlying source files having been uploaded.
+
 ## Start here
 
 - [Agent instructions](AGENTS.md), shared across model providers
