@@ -1,10 +1,12 @@
-# Research gaps — provisional, to be challenged
+# Research gaps — provisional
 
-- **Population:** undergraduate-only educational studies do not directly answer a postgraduate/professional-practice question. Verify the 58 A–C and 20 D reading priorities before using them as evidence.
-- **Outcome validity:** output quality, claimed learning, enacted revision and durable transfer are often measured differently. We need to examine actual instruments, not just author labels.
-- **Ecology of practice:** individual prompts may not capture group deliberation, critique and the teaching context.
-- **Generative AI beyond a generic chatbot:** tool prompts and affordances matter; do not infer tool-specific effects from ChatGPT studies without analysis.
-- **Methodological quality:** many relevant abstracts need full-text reading; screening exclusions still require independent checking.
-- **Theory:** compare evaluative judgement, reflective practice and strategy-as-practice without deciding in advance that one is the explanation.
+These are **open methodological questions**, not conclusions of a completed synthesis of all Scopus papers.
 
-**These are working hypotheses and audit priorities, not established gaps from a completed synthesis.**
+- Direct postgraduate/professional evidence remains thin among the **six supplied PDFs**: two professional experimental papers, three mixed-level secondary reviews and one undergraduate methodological comparator. This is not a count of the wider corpus.
+- Outcome validity: distinguish assisted grades, observed reasoning, self-reported reflection, and delayed independent transfer.
+- The [Deng meta-analysis](../sources/deng-chatgpt-learning-review.md) highlights uncertain AI availability during assessments (PDF p. 18); [Chen & Cheung](../sources/chen-cheung-learning-meta-analysis.md) find a non-significant metacognition subgroup effect (PDF pp. 1, 15).
+- [Herdağdelen et al.](../sources/herdagdelen-experts-judgement.md) suggest studying **sequences of consequential modelling choices**, not just final advice. The experiment uses synthetic tasks and assigned agent preferences, so naturalistic generalisability remains open.
+- Individual and group practice, feedback uptake, teaching arrangements and tool affordances may matter, but strategy-as-practice remains an exploratory lens pending original theory reading.
+- A–D screening QA, potential false exclusions, uncertain populations and three missing abstracts still require verification.
+
+Next full-text priority: retrieve one **verified postgraduate original study** from the Scopus D list and examine whether it supports or challenges the [six-paper synthesis](six-paper-synthesis.md).
