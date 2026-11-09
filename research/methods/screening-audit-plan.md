@@ -35,3 +35,7 @@ The preliminary broad D searches returning 1,189 and 474 results were explorator
 ## Stop rule
 
 Conclude supplementary searching when no *material* framework or study-design gap justifies more; record the decision. Do not impose an arbitrary quota of thirty or forty studies, or imply a complete systematic inclusion count based on the current priority queue.
+
+## Technical QA run — 9 November 2026
+
+[Deterministic A–D audit](screening-technical-qa-2026-11-09.md) reproduced **1,096 exports → 78 duplicate hits → 1,018 unique records**, checked master RecordIDs and DOI uniqueness, verified D's sixteen duplicates and identified five missing/unusable abstracts. Its [52-record bibliographic researcher queue](screening-qa-researcher-queue-2026-11-09.csv) combines seven targeted cases, five missing abstracts, the existing twenty-five D QA records and fifteen additional deterministically sampled A–C exclusions. **Technical provenance checks pass; adjudication does not.** The queue contains blanks for human decisions and deliberately preserves all original screening labels. Re-check independently as a human, and keep any AI recommendation advisory.
