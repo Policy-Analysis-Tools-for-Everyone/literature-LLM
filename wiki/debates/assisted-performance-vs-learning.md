@@ -1,15 +1,16 @@
 # Assisted performance versus learning
 
-## Current proposition
-Better outcomes *with* an AI system and increased independent capability are conceptually different. Neither an immediate unaided quiz nor spotting AI errors captures every legitimate form of learning.
+Higher-quality work using AI is not automatically evidence of increased independent capability.
 
-## Direct evidence currently linked
-[Wiles et al. (2026)](../sources/wiles-2026.md) reports substantial gains on three AI-assisted technical tasks with no detected advantage on a five-item immediate unassisted knowledge check. Treat the latter as a **limited null finding**, not proof of no learning. This involved practising consultants, not postgraduate policy students.
+## Experimental professional evidence
+[Wiles et al.](../sources/wiles-2026.md) found advantages on three AI-assisted data-science tasks, but no statistically significant advantage on a five-item immediate unaided posttest (PDF pp. 2–4). This **does not prove no learning**, given the narrow test and short interval.
 
-## What must be tested next
-- Did the assessment rubric change to reflect the use of AI? Were tasks comparable?
-- Were students able to explain, critique or revise arguments while using AI?
-- Do studies measure delayed transfer, self-regulation, situated competence, or only output grades?
-- Does the tool alter how people coordinate with peers and teachers?
+## Secondary research and assessment validity
+[Deng et al.](../sources/deng-chatgpt-learning-review.md) report nine experimental studies allowing ChatGPT during post-intervention assessment and thirty-three not disclosing whether it was allowed (PDF p. 18).
 
-Related concepts: [evaluative judgement](../concepts/evaluative-judgement.md), [reflective practice](../concepts/reflective-practice.md).
+[Chen & Cheung](../sources/chen-cheung-learning-meta-analysis.md) report a non-significant pooled metacognition effect (g+ = 0.078, p = 0.789), alongside other positive outcomes (PDF pp. 1, 15). Constituent primary studies may overlap with Deng; no double-counting.
+
+## An additional dimension: decision ownership
+[Herdağdelen, Joren & Tamkin](../sources/herdagdelen-experts-judgement.md) examine expert **choices**, not learning or retention. AI influence over upstream methodological decisions may shape the output even if the human signs off the final recommendation. See [judgement ownership](analytical-decisions-and-ownership.md).
+
+**Interpretation:** distinguish what work is completed, what can be done without assistance, and who shapes consequential reasoning choices. None alone measures all of professional judgement.
