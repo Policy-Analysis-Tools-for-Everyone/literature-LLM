@@ -21,3 +21,10 @@
 - **Other boundary results:** Zou et al. found no significant overall metacognitive-experience difference; Farrokhnia et al. found higher-quality AI feedback did not significantly improve revisions; Elkhodr & Gide measured scaffolded group artefacts, not durable individual capacity.
 - Tai and Bearman are conceptual; the Fernandes adult sample is contextual; Gmeiner has a mixed design participant population requiring explicit verification before classifying as directly practising-professional evidence.
 - Screening QA, original-source page/detail verification, and human approval of the synthesis are **not complete**. No UCL amendment activity is presumed approved.
+
+## 2026-11-09 — Ten high-impact claims checked against supplied original PDFs
+- Merged research-record PR #1 into `main` (squash commit `f2ab01dd629a0c1888a0c193bf2c86a8cb62897a`).
+- Completed a **purposive AI-conducted source-level ten-claim audit**, spanning Wiles, Herdağdelen, Elkhodr & Gide, Farrokhnia, Zou, Dai et al., Yao, Fernandes, Tai and Bearman. [Audit and exact PDF page locators](../research/methods/ten-claim-evidence-audit-2026-11-09.md).
+- Corrected an **empirical sampling error** in Elkhodr & Gide: eight groups were analysed from the Term 2 2025 assessment; the wider teaching programme covers five offerings, but the empirical sample did not span those offerings.
+- Retained null and boundary findings rather than turning them into simple AI-benefit/AI-harm claims. Added claim IDs to the provisional [evidence-to-design register](../research/design/translation-register.md).
+- Researcher adjudication, full bibliography validation, remaining eight-paper high-impact claims and study ethics amendment checks remain open.
