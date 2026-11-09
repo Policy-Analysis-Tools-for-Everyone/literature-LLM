@@ -42,3 +42,8 @@ ChatGPT, Claude Code or another assistant may work on this repository. `AGENTS.m
 - [Evidence-based six-paper synthesis](wiki/synthesis/six-paper-synthesis.md)
 
 The raw Scopus data, licensed PDFs, and earlier cycle-seven synthesis remain in controlled storage rather than being copied into this repository.
+
+
+## Second literature ingestion (9 November 2026)
+
+The repository now has **18 distinct full-text source notes**: the original six plus twelve newly acquired papers. The [expanded critical synthesis](wiki/synthesis/new-postgraduate-evidence.md) is the current working synthesis; the [original six-paper synthesis](wiki/synthesis/six-paper-synthesis.md) is retained as a versioned baseline. For exact source hashes and the Fernandes filename correction, see [source library manifest](protocol/source-library-index.md). These are **initial AI-assisted appraisals**, not researcher-adjudicated quality assessments or completed review inclusions.
