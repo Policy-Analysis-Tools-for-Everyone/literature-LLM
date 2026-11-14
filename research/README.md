@@ -47,3 +47,10 @@ This is a **working method**, not a revised ethics application or approval to be
 ## Interview, follow-up task and research analysis design — 14 November 2026
 
 - **[Methodological options v0.3](design/methodological-options-v0.3.md)** — researcher-led proposals for in-module and post-marking interviews, a separate comparable individual task, the contributions of observations, theoretical alternatives, and governed human-first / AI-second analysis. The proposals are **not yet an amended ethics permission**. Model C is researcher-selected; the focal theory and operational details remain undecided.
+
+## Literature-informed methodology — 14 November 2026
+
+- **[Integrated study methodology v0.4](design/integrated-study-methodology-v0.4.md)** — original approved research plan and actual IIPP0010 syllabus/seminars, participant journey, two interview waves, new follow-up task, observations, analysis and safeguards. **Proposed, not ethics-approved.**
+- **[Theoretical perspectives: retained literature-review writing note](../wiki/synthesis/theoretical-perspectives-writing-note.md)** — saved and researcher-endorsed orientation for later writing, with verification status and citations.
+
+**Important for the current 2026 cohort:** seminars in October and early November were already scheduled before this version. The methodology distinguishes retrospective existing teaching artefacts from prospective research activities; the supplied syllabus has inconsistent December memo submission dates requiring authoritative confirmation.
