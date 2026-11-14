@@ -1,0 +1,91 @@
+{
+  "label": "User-supplied version of UCL ethics amendment submission",
+  "study": "Practice as software: exploring the use of AI in policy reasoning and critical thinking",
+  "version": "Research v0.2.0",
+  "supplied_date": "2026-11-14",
+  "status": "SUBMITTED (user-confirmed); amendment approval pending",
+  "original_zip_name": "Research v0.2.0.zip",
+  "original_zip_sha256": "8e1996bdeab3f2ba0ca30127a0d5e9143483b2405fbd8f39c86b666a06ca8a3d",
+  "original_zip_bytes": 395264,
+  "binary_files_stored_in_github": false,
+  "source_verification": "All 10 DOCX SHA256 hashes exactly match hashes of source Word documents previously used for existing Markdown snapshots; canonical source is the user-uploaded ZIP.",
+  "files": [
+    {
+      "original": "Participant_Information_Sheet_v4_for_ethics_review.docx",
+      "snapshot": "01-participant-information-sheet-v4.md",
+      "sha256": "cfd4650cf89cfcd3267b02e8c7601eb21d3ea59f2689be212dae735ef947c781",
+      "bytes": 43931,
+      "verified_against_submitted_zip": true
+    },
+    {
+      "original": "Practice_as_software_Study_Invitation_Email.docx",
+      "snapshot": "02-initial-study-invitation.md",
+      "sha256": "da47b5fcb93c9775483f9096694fbda5350cde5b7d7294fea8044c401545ff07",
+      "bytes": 37804,
+      "verified_against_submitted_zip": true
+    },
+    {
+      "original": "Practice_as_software_During_Module_Interview_Invitation.docx",
+      "snapshot": "03-during-module-interview-invitation.md",
+      "sha256": "cf730a09640cda453a31b4998ddee99bfefb6a55bf2419115d7f96ec401af817",
+      "bytes": 38083,
+      "verified_against_submitted_zip": true
+    },
+    {
+      "original": "Practice_as_software_Post_Module_Interview_Invitation.docx",
+      "snapshot": "04-post-module-interview-invitation.md",
+      "sha256": "146cd81761d5e22073a8a5370be671b6cbf6458cfed4300b707ebc7c94a92309",
+      "bytes": 38195,
+      "verified_against_submitted_zip": true
+    },
+    {
+      "original": "Practice_as_software_Interview_1_Guide.docx",
+      "snapshot": "05-interview-1-guide.md",
+      "sha256": "2d7239746c42366af9474ab1b84b53217002e668314cf27364d047a8e0e5c993",
+      "bytes": 38534,
+      "verified_against_submitted_zip": true
+    },
+    {
+      "original": "Practice_as_software_Interview_2_Guide.docx",
+      "snapshot": "06-interview-2-guide.md",
+      "sha256": "8e7af4451da3a1a3d85be430c06f752db463ee52d9c08a40d388f4f04297d824",
+      "bytes": 38706,
+      "verified_against_submitted_zip": true
+    },
+    {
+      "original": "Practice_as_software_Seminar_Observation_Guide.docx",
+      "snapshot": "07-seminar-observation-guide.md",
+      "sha256": "59f7c15f57407c6d925a0d7432f089203c0f387cd3181cbf1c30211745c9c601",
+      "bytes": 39038,
+      "verified_against_submitted_zip": true
+    },
+    {
+      "original": "Practice_as_software_Follow_up_Policy_Task_WORKING_VERSION_for_Ethics_Review.docx",
+      "snapshot": "08-follow-up-policy-task-working.md",
+      "sha256": "af3ece8ee2b8716b57142ddf76741ffb18f20d5b02db98fc76e95c78839eed8d",
+      "bytes": 39581,
+      "verified_against_submitted_zip": true
+    },
+    {
+      "original": "Practice_as_software_Data_Management_and_Analysis_Protocol_for_Ethics_Review.docx",
+      "snapshot": "09-data-management-analysis-protocol.md",
+      "sha256": "e7170ca5a8e5ddaa98779ab6c7bbafcc76475c7eb0f3ffeadb706d91cc31265d",
+      "bytes": 40121,
+      "verified_against_submitted_zip": true
+    },
+    {
+      "original": "Practice_as_software_Revised_Research_Plan_v0.4_CHANGES_HIGHLIGHTED.docx",
+      "snapshot": "10-revised-research-plan-v0.4.md",
+      "sha256": "37962c831a6d40d199a1edef13573dbbdf6e777808bf1bf2710ee241c4afdbb2",
+      "bytes": 42853,
+      "verified_against_submitted_zip": true
+    }
+  ],
+  "additional_html": {
+    "original": "Practice as software_ research participation and consent (IIPP0010) (Preview).html",
+    "sha256": "bdf36422b0b91299184b6c78f88b4c9cd7291659890463c244bacb8873e5123f",
+    "bytes": 45669,
+    "caution": "Static Microsoft Forms loading shell; no readable form consent questions found. Not equivalent to full consent form export."
+  },
+  "missing": "UCL form-submission receipt/reference and an independently readable PDF/export of final Microsoft Forms questions"
+}
