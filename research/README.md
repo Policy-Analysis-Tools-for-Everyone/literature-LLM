@@ -54,3 +54,7 @@ This is a **working method**, not a revised ethics application or approval to be
 - **[Theoretical perspectives: retained literature-review writing note](../wiki/synthesis/theoretical-perspectives-writing-note.md)** — saved and researcher-endorsed orientation for later writing, with verification status and citations.
 
 **Important for the current 2026 cohort:** seminars in October and early November were already scheduled before this version. The methodology distinguishes retrospective existing teaching artefacts from prospective research activities; the supplied syllabus has inconsistent December memo submission dates requiring authoritative confirmation.
+
+## Additional seminar evidence — 14 November 2026
+
+- **[Formative-feedback and Thinking Hats seminar comparison](design/seminar-comparison-thinking-hats-formative-feedback-v0.1.md)** — grounded in both native Google Slides decks and the linked Thinking Hats session outline, with an analysis of what each offers the longitudinal design and what would require approval. Distinguishes original teaching activities from proposed AI-supported research refinements.
