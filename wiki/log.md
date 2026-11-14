@@ -60,3 +60,6 @@
 - Researcher uploaded **Research v0.2.0.zip** as the official submitted-version package. ZIP SHA-256: `8e1996bdeab3f2ba0ca30127a0d5e9143483b2405fbd8f39c86b666a06ca8a3d`.
 - All ten DOCX files exactly match the originals previously used for the GitHub Markdown snapshots, verified using SHA-256; see [authoritative source manifest](../research/ethics-amendment/submission-2026-11-14/submitted-source-manifest.json).
 - One Microsoft Forms HTML preview is present but contains no readable question text (only loading shell). No committee confirmation or completed amendment form has been provided. **Amendment approval pending.**
+
+## 2026-11-14 — Preliminary literature review prose saved
+- Committed the researcher's [first narrative literature-review draft](synthesis/practice-as-software-preliminary-literature-review-v0.1.md), *Practice as Software: AI, learning and the exercise of policy judgement*. It is a shareable working argument for discussion with David Eaves, not a completed review. Existing evidence appraisals and screening limitations remain unchanged.
