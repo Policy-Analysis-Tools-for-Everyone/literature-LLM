@@ -49,3 +49,9 @@
 - Researcher confirmed both formative submission and written formative tutor feedback should be sought as **separately consented, optional research sources**, distinct from ordinary seminar work.
 - Produced [revised research plan v0.3](../research/ethics-amendment/revised-research-plan-v0.3-FOR-REVIEW.md) and synchronized revised information sheet, consent, interview questions, recruitment wording, data management and change map; compiled [one-file amendment pack](../research/ethics-amendment/CONSOLIDATED-AMENDMENT-PACK-v0.3.md).
 - The formative is an early policy analysis, **before reported PolicyMemo.ai introduction but not necessarily before generic AI use**. Mid-course interviews will ask about prior AI/non-use; written tutor feedback provides an independent critique, not proof of feedback uptake. No unapproved collection or AI analysis of student data has begun under these documents.
+
+## 2026-11-14 — UCL ethics amendment submitted; snapshot archive created
+- Researcher confirmed that the amendment was **submitted**. This confirms submission status as reported by the researcher, **not committee approval**.
+- Archived ten content snapshots of the latest available Word documents to [the dated submission folder](../research/ethics-amendment/submission-2026-11-14/README.md), retaining original Word filenames and SHA-256 fingerprints for future matching. These Markdown conversions do not preserve layout/highlighting.
+- Archived **missing-item status**: official final Microsoft Forms consent PDF, UCL portal amendment/receipt and actual submission attachment manifest have not been made available. Original ten DOCX files remain available as a separate downloadable ZIP, but have not been committed as binaries.
+- Previous working documents in `research/ethics-amendment/` remain historical and should not be treated as the most recent participant-facing versions.
