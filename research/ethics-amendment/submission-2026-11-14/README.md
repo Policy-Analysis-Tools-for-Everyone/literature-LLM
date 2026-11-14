@@ -1,6 +1,8 @@
 # Ethics amendment — submission-date archive (14 November 2026)
 
-**User-reported status:** ethics amendment **submitted** to UCL on 14 November 2026. **Verification scope:** the ten most recent generated Word copies available in the conversation, not a direct export of UCL's submitted attachment list. The exact files uploaded to the ethics portal have **not** been independently verified. The committee reference, UCL receipt and final Microsoft Forms PDF have not been provided.
+> **AUTHORITATIVE SUBMISSION IDENTIFIED — Research v0.2.0.zip (uploaded by researcher, 14 November 2026).** The uploaded archive contains ten DOCX documents and one Microsoft Forms HTML preview. **Every DOCX is byte-for-byte identical** (SHA-256 comparison) to the original Word file used to create its GitHub Markdown snapshot. [Read the verified ZIP manifest](submitted-source-manifest.json). The original ZIP has SHA-256 `8e1996bdeab3f2ba0ca30127a0d5e9143483b2405fbd8f39c86b666a06ca8a3d`. Researcher confirms this is the submitted version; UCL committee approval remains pending.
+
+**User-reported status:** ethics amendment **submitted** to UCL on 14 November 2026. **Verification scope:** the original researcher-supplied submitted-version ZIP was subsequently uploaded and inspected. All ten DOCX source hashes match exactly; the Microsoft Forms preview HTML does not expose readable consent questions. The committee reference, UCL receipt and final Microsoft Forms PDF have not been provided.
 
 ## Document snapshots
 
@@ -22,17 +24,17 @@ These are **text transcriptions** of the latest available Word files. They can b
 ## What is not yet archived in GitHub
 
 - The **exact formatted `.docx` attachments** (including yellow ethics-amendment highlighting): currently available as a downloadable local ZIP; this GitHub connection has archived their text and hashes but not their original binary bytes.
-- The **final live Microsoft Forms consent form PDF**, with question settings and choices, has not been supplied as a file. The repo retains earlier consent wording as a draft, **not the authoritative final form**.
+- The researcher-supplied ZIP includes a **Microsoft Forms HTML preview**, but its saved content is a loading shell without the consent question text, so it does not constitute a readable full consent-form export. No final PDF of the form is in this ZIP. Existing GitHub consent wording is an earlier draft.
 - The UCL **submission confirmation, committee application response/receipt and final completed amendment form** have not been supplied. No reference number should be invented.
 
 ## Original Word files
 
-The current conversation also contains a ZIP of all ten latest available Word files with an accompanying SHA-256 JSON manifest. They should be preserved separately or placed in an approved storage location. No participant research data are in this archive.
+The researcher has now uploaded **Research v0.2.0.zip**, identified as the exact submitted-version package. Its ten original Word files match the archived source hashes. The GitHub archive also contains [the corresponding machine-readable source manifest](submitted-source-manifest.json). This repository currently stores their readable Markdown captures and hashes, **not the binary originals**. They should be preserved separately or placed in an approved storage location. No participant research data are in this archive.
 
 ## Change control
 
 1. Preserve this folder as a **submission-date evidence snapshot**; do not silently revise it if the committee requests changes.
-2. When the official receipt, final submitted form and final consent PDF are available, add them as a separately dated supplement, noting whether they were the actual portal attachments.
+2. When the official receipt, completed amendment form or a readable final Microsoft Forms export are available, add them as a separately dated supplement. The original submitted-source ZIP is already identified and verified by its checksum.
 3. Following committee feedback, create a **new version** and link its approval status. Until amendment approval, new research methods remain proposals.
 
 **Researcher update:** amendment submitted (per user), **approval pending**. This index intentionally avoids claiming the study has approval for newly introduced procedures.
