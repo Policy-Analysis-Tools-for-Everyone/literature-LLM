@@ -51,3 +51,7 @@ Earlier consolidated drafts remain **historical working snapshots** and should n
 ## Submission-date archive — 14 November 2026
 
 **[Open the submitted-ethics working archive](submission-2026-11-14/README.md).** User confirms submission to UCL; the archive contains **ten text snapshots extracted from the latest available Word copies** with SHA-256 checksums of the originals, and a clear record of what has not been verified or committed (original Word binaries, final Microsoft Forms consent PDF, final committee form and submission receipt). These are not a claim that the GitHub copies exactly match the files UCL received. **Amendment approval remains pending.**
+
+## Authoritative submitted source verified — 14 November 2026
+
+The researcher provided **Research v0.2.0.zip** as the submitted version. All ten DOCX documents match the [submission-date Markdown archive](submission-2026-11-14/README.md) source files exactly by SHA-256 checksum; [source manifest](submission-2026-11-14/submitted-source-manifest.json) records filenames and checksums. One Microsoft Forms HTML preview is also present, but it is only a loading-page shell and does **not** expose the actual consent questions. The original binary ZIP is not committed to GitHub. This package is submitted, **not yet approved**.
