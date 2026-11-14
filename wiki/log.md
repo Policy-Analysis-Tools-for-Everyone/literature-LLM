@@ -55,3 +55,8 @@
 - Archived ten content snapshots of the latest available Word documents to [the dated submission folder](../research/ethics-amendment/submission-2026-11-14/README.md), retaining original Word filenames and SHA-256 fingerprints for future matching. These Markdown conversions do not preserve layout/highlighting.
 - Archived **missing-item status**: official final Microsoft Forms consent PDF, UCL portal amendment/receipt and actual submission attachment manifest have not been made available. Original ten DOCX files remain available as a separate downloadable ZIP, but have not been committed as binaries.
 - Previous working documents in `research/ethics-amendment/` remain historical and should not be treated as the most recent participant-facing versions.
+
+## 2026-11-14 — Submitted source ZIP received and verified
+- Researcher uploaded **Research v0.2.0.zip** as the official submitted-version package. ZIP SHA-256: `8e1996bdeab3f2ba0ca30127a0d5e9143483b2405fbd8f39c86b666a06ca8a3d`.
+- All ten DOCX files exactly match the originals previously used for the GitHub Markdown snapshots, verified using SHA-256; see [authoritative source manifest](../research/ethics-amendment/submission-2026-11-14/submitted-source-manifest.json).
+- One Microsoft Forms HTML preview is present but contains no readable question text (only loading shell). No committee confirmation or completed amendment form has been provided. **Amendment approval pending.**
