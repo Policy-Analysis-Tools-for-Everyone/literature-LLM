@@ -28,3 +28,9 @@
 - Corrected an **empirical sampling error** in Elkhodr & Gide: eight groups were analysed from the Term 2 2025 assessment; the wider teaching programme covers five offerings, but the empirical sample did not span those offerings.
 - Retained null and boundary findings rather than turning them into simple AI-benefit/AI-harm claims. Added claim IDs to the provisional [evidence-to-design register](../research/design/translation-register.md).
 - Researcher adjudication, full bibliography validation, remaining eight-paper high-impact claims and study ethics amendment checks remain open.
+
+## 2026-11-14 — Researcher selects Model C and endorses theoretical writing orientation
+- Researcher confirms Model C (*capability-in-practice*) as preferred study orientation. **Policy judgement** is the substantive focus; **evaluative judgement** helps with quality assessment; metacognition and reflective practice help ask how reasoning is monitored/reframed; a practice perspective attends to peers, educators, methods and AI. Preserve these distinctions without treating them as a validated causal model.
+- Saved a [dedicated writing note](synthesis/theoretical-perspectives-writing-note.md) for the literature review and later research paper, with Harvard source pointers and verification caveats.
+- Drafted [integrated study methodology v0.4](../research/design/integrated-study-methodology-v0.4.md) against the original approved plan, 2026–27 syllabus and actual seminar notes. It proposes two interview waves, a later unfamiliar individual task and human-first analysis; **none is approval to collect new data**.
+- Key temporal caveat: early seminars already occurred by 14 November 2026, and the syllabus has conflicting memo submission dates. Research questions about development must separate same-task revisions from later independent work.
