@@ -43,3 +43,7 @@ The current eighteen-paper full-text working library is **adequate to start shap
 - **[Methodological direction v0.2](design/methodological-direction-v0.2.md)** — a human-readable comparison between the originally approved research plan and what the eighteen-paper synthesis supports, including the distinction between *exercise* and *development* of policy judgement. This replaces ‘episode’ as the default plain-language framing without erasing the earlier exploratory technical codebook.
 
 This is a **working method**, not a revised ethics application or approval to begin new data collection.
+
+## Interview, follow-up task and research analysis design — 14 November 2026
+
+- **[Methodological options v0.3](design/methodological-options-v0.3.md)** — researcher-led proposals for in-module and post-marking interviews, a separate comparable individual task, the contributions of observations, theoretical alternatives, and governed human-first / AI-second analysis. The proposals are **not yet an amended ethics permission**. Model C is researcher-selected; the focal theory and operational details remain undecided.
