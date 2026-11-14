@@ -193,3 +193,7 @@ A new application or amendment would need:
 - Independent methods critique, researcher approval and then ethics documentation.
 
 **Literature orientation:** [saved writing note](../../wiki/synthesis/theoretical-perspectives-writing-note.md). **This version is research design for discussion**, not a finished study or evidence of approval.
+
+## 13. Additional teaching designs: feedback interpretation and Thinking Hats
+
+The [source-grounded seminar comparison](seminar-comparison-thinking-hats-formative-feedback-v0.1.md) examines the original **formative analysis, AI & decision-making** deck and **Week 8 policy memo speed dating / Six Thinking Hats** deck, alongside its full session outline. Their strengths are complementary: the former makes decisions about **responding to teacher feedback** discussable; the latter structures **multiple peer critiques and pitch revisions**. Neither originally requires PolicyMemo.ai during the peer feedback sequence. Future AI critique should be a distinct, documented addition rather than retrospectively represented as part of either original activity. The original Thinking Hats slides say students must incorporate one piece of advice; a proposed teaching refinement is to permit **accept, modify or reject with reasons**. Preserve non-AI learning and avoid attributing changes to AI where other feedback or curricular design explains them.
