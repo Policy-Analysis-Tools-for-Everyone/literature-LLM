@@ -28,3 +28,12 @@ For each study decision, record **what** changed, **who** decided, **when**, **w
 The current eighteen-paper full-text working library is **adequate to start shaping the study design**, not necessarily a complete publication-ready review. New reading should be targeted to conceptual/methodological questions rather than an arbitrary paper count. A [deterministic screening audit](methods/screening-technical-qa-2026-11-09.md) has reproduced A–D search counts, but the [52-record human adjudication queue](methods/screening-qa-researcher-queue-2026-11-09.csv) remains open. Human validation of claims and exclusions is not implied by the reproducibility check.
 
 **Sequence:** literature-informed design → researcher methodological challenge and amendment drafting → formal ethics amendment → only then carry out newly authorised data collection. See [amendment proposal](study/amendment-proposal.md).
+
+## Conceptual framework and design bridge — 14 November 2026
+
+- **[Provisional conceptual framework](../wiki/synthesis/conceptual-framework-v0.1.md)** — evaluative judgement as a candidate focal capability, tested against metacognition, reflection and situated practice
+- **[Policy decision-episode analytic framework v0.1](design/episode-analytic-framework-v0.1.md)** — code definitions, evidence-status boundaries and synthetic example
+- **[Rival-theory and methods challenge](design/theory-to-method-critique-v0.1.md)** — what would disconfirm the preferred capability-in-practice model
+- **[Short foundational reading queue](methods/theory-reading-queue.md)** — Schön, Zimmerman, Whittington, Jarzabkowski and feedback theory, with full-text status
+
+**Next researcher checkpoint:** adjudicate the focal construct and whether development can be observed separately from exercise; only then draft the complete seminar/interview/observation design and its subsequent ethics amendment.
