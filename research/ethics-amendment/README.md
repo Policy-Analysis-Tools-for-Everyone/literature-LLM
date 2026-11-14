@@ -39,3 +39,11 @@ UCL requests a description/justification for the changes, ethical risks, an upda
 **Blocking confirmations before submission:** actual ethics approval record and reference, staff/interviewer availability, live module and grade-release timetable, recruitment scope, exact follow-up burden, withdrawal window, legal basis/retention review, and **AI processing pathway** (default no participant data supplied to an LLM).
 
 No participant data is kept here. These are researcher-facing drafts and are not student-facing until approved.
+
+## Latest submission materials — 14 November 2026
+
+- **[Revised research plan v0.4](revised-research-plan-v0.4-ETHICS.md)** — requests all four seminar groups, aligns dates, consent staff, two AI seminars and longitudinal analysis with the accepted Participant Information Sheet. The Word copy highlights the amendment summary.
+- **[Post-module interview invitation](post-module-interview-invitation-v0.1.md)** — Naeha's follow-up invitation after marking, with a separately optional later policy task.
+- **[Attachment consistency check](submission-consistency-check-2026-11-14.md)** — reviewed attachments, harmonised decisions and outstanding checks requiring human confirmation.
+
+Earlier consolidated drafts remain **historical working snapshots** and should not replace the revised plan or independently signed-off Word documents. The study is not authorised to run new procedures until ethics approval is granted.
