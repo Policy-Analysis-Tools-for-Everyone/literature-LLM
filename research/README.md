@@ -58,3 +58,10 @@ This is a **working method**, not a revised ethics application or approval to be
 ## Additional seminar evidence — 14 November 2026
 
 - **[Formative-feedback and Thinking Hats seminar comparison](design/seminar-comparison-thinking-hats-formative-feedback-v0.1.md)** — grounded in both native Google Slides decks and the linked Thinking Hats session outline, with an analysis of what each offers the longitudinal design and what would require approval. Distinguishes original teaching activities from proposed AI-supported research refinements.
+
+## Ethics amendment drafts — two AI seminars (14 November 2026)
+
+- **[Start with the amendment pack](ethics-amendment/README.md)** — revised research plan, participant information sheet, modular consent, two interview waves, observation protocol, optional post-grading comparable task, secure human-led analysis and amendment change map.
+- **[Short two-seminar framework](design/two-ai-seminar-framework-v0.5.md)** — Strategic Triangle and Thinking Hats are core AI-supported opportunities; formative-feedback teaching remains non-AI-led, and a third tool seminar is optional only if justified.
+
+All are **drafts for researcher and sponsor review**, not a submitted or approved amendment; actual seminar dates, staff, participation safeguards, withdrawal and AI-processing permissions require confirmation. The original approved plan remains in force until any amendment is authorised.
