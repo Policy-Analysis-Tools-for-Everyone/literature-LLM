@@ -6,7 +6,7 @@
   "status": "SUBMITTED (user-confirmed); amendment approval pending",
   "original_zip_name": "Research v0.2.0.zip",
   "original_zip_sha256": "8e1996bdeab3f2ba0ca30127a0d5e9143483b2405fbd8f39c86b666a06ca8a3d",
-  "original_zip_bytes": 395264,
+  "original_zip_bytes": 394748,
   "binary_files_stored_in_github": false,
   "source_verification": "All 10 DOCX SHA256 hashes exactly match hashes of source Word documents previously used for existing Markdown snapshots; canonical source is the user-uploaded ZIP.",
   "files": [
