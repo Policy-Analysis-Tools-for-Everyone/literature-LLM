@@ -34,3 +34,8 @@
 - Saved a [dedicated writing note](synthesis/theoretical-perspectives-writing-note.md) for the literature review and later research paper, with Harvard source pointers and verification caveats.
 - Drafted [integrated study methodology v0.4](../research/design/integrated-study-methodology-v0.4.md) against the original approved plan, 2026–27 syllabus and actual seminar notes. It proposes two interview waves, a later unfamiliar individual task and human-first analysis; **none is approval to collect new data**.
 - Key temporal caveat: early seminars already occurred by 14 November 2026, and the syllabus has conflicting memo submission dates. Research questions about development must separate same-task revisions from later independent work.
+
+## 2026-11-14 — Added two researcher-supplied native seminar decks
+- Read the 21-slide **Formative analysis, AI & decision-making** deck and the 12-slide **Week 8 Thinking Hats policy memo speed dating** deck plus its linked teaching outline. Saved [source-grounded comparative methodological note](../research/design/seminar-comparison-thinking-hats-formative-feedback-v0.1.md).
+- Design implication: use the first to examine evaluation of **formative tutor feedback** and the second to examine judgement under **successive structured peer critiques**. These are complementary, not interchangeable AI conditions. Add any AI critique visibly and separately; assess what students do with advice, including justified retention of an original position.
+- These are teaching sources, not new ethics permissions. Delivery dates, research access to student feedback and actual session data remain to be verified.
