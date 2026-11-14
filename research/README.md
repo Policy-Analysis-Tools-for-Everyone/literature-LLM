@@ -65,3 +65,7 @@ This is a **working method**, not a revised ethics application or approval to be
 - **[Short two-seminar framework](design/two-ai-seminar-framework-v0.5.md)** — Strategic Triangle and Thinking Hats are core AI-supported opportunities; formative-feedback teaching remains non-AI-led, and a third tool seminar is optional only if justified.
 
 All are **drafts for researcher and sponsor review**, not a submitted or approved amendment; actual seminar dates, staff, participation safeguards, withdrawal and AI-processing permissions require confirmation. The original approved plan remains in force until any amendment is authorised.
+
+## Ethics submission draft — formative assignment and tutor feedback (14 November 2026)
+
+- **[Consolidated ethics amendment pack v0.3](ethics-amendment/CONSOLIDATED-AMENDMENT-PACK-v0.3.md)** — full working research plan, participant information, consent, recruitment, interviews, observation, later task, data handling and submission change map. Two *independently optional* materials are now explicit: (i) the original formative problem analysis and (ii) the tutor's written feedback. The formative predates planned PolicyMemo.ai teaching but is **not assumed AI-free**. This is **for review**, not submitted or approved.
