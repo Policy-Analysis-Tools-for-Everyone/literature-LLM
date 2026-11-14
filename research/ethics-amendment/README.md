@@ -47,3 +47,7 @@ No participant data is kept here. These are researcher-facing drafts and are not
 - **[Attachment consistency check](submission-consistency-check-2026-11-14.md)** — reviewed attachments, harmonised decisions and outstanding checks requiring human confirmation.
 
 Earlier consolidated drafts remain **historical working snapshots** and should not replace the revised plan or independently signed-off Word documents. The study is not authorised to run new procedures until ethics approval is granted.
+
+## Submission-date archive — 14 November 2026
+
+**[Open the submitted-ethics working archive](submission-2026-11-14/README.md).** User confirms submission to UCL; the archive contains **ten text snapshots extracted from the latest available Word copies** with SHA-256 checksums of the originals, and a clear record of what has not been verified or committed (original Word binaries, final Microsoft Forms consent PDF, final committee form and submission receipt). These are not a claim that the GitHub copies exactly match the files UCL received. **Amendment approval remains pending.**
