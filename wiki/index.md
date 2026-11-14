@@ -59,3 +59,7 @@
 - [Targeted foundational theory reading](../research/methods/theory-reading-queue.md)
 
 All remain **proposed**, not researcher-validated or approved research instruments.
+
+## Researcher-endorsed theoretical framing and study design
+- **[Theoretical perspectives for the literature review](synthesis/theoretical-perspectives-writing-note.md)** — policy judgement, evaluative judgement, metacognition, reflective practice and practice perspectives, with reference and verification cautions
+- [Integrated longitudinal qualitative methodology v0.4](../research/design/integrated-study-methodology-v0.4.md) — draft methodology grounded in original IIPP0010 teaching and approved study scope; proposed new research methods require ethics approval
