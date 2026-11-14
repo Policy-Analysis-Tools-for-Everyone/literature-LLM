@@ -37,3 +37,9 @@ The current eighteen-paper full-text working library is **adequate to start shap
 - **[Short foundational reading queue](methods/theory-reading-queue.md)** — Schön, Zimmerman, Whittington, Jarzabkowski and feedback theory, with full-text status
 
 **Next researcher checkpoint:** adjudicate the focal construct and whether development can be observed separately from exercise; only then draft the complete seminar/interview/observation design and its subsequent ethics amendment.
+
+## Methodological development — Model C selected
+
+- **[Methodological direction v0.2](design/methodological-direction-v0.2.md)** — a human-readable comparison between the originally approved research plan and what the eighteen-paper synthesis supports, including the distinction between *exercise* and *development* of policy judgement. This replaces ‘episode’ as the default plain-language framing without erasing the earlier exploratory technical codebook.
+
+This is a **working method**, not a revised ethics application or approval to begin new data collection.
