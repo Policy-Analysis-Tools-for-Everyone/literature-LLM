@@ -51,3 +51,11 @@
 - [Source note template](sources/_TEMPLATE.md)
 
 **Boundary:** 18 distinct papers have initial full-text notes; this is a selected working library, not a completed Scopus screening or final critical narrative review. Reviews and undergraduate-only work are not direct postgraduate empirical evidence.
+
+## Literature-informed research design (14 November 2026)
+- **[Conceptual framework comparison v0.1](synthesis/conceptual-framework-v0.1.md)** — evaluative judgement, metacognition, reflective practice and strategy-as-practice; three rival models
+- [Decision-episode coding proposal](../research/design/episode-analytic-framework-v0.1.md)
+- [Theory-to-method critique](../research/design/theory-to-method-critique-v0.1.md)
+- [Targeted foundational theory reading](../research/methods/theory-reading-queue.md)
+
+All remain **proposed**, not researcher-validated or approved research instruments.
